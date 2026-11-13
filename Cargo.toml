@@ -1,0 +1,10 @@
+[package]
+name = "aoc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+elfcode = "0.1.0"
+
+[build-dependencies]
+elfcode-build = "0.1.0"
